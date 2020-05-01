@@ -1,5 +1,6 @@
 package selenium.test;
 
+import java.lang.ref.PhantomReference;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
