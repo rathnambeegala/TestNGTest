@@ -1,0 +1,2 @@
+*.metadata
+**/SeleniumTest/.project
